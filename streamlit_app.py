@@ -74,11 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts": ["짜장면은 맛있다."], "images": ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]}
-    labels[1] : {"texts": ["짬뽕은 맛있다."], "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]}
-labels[2] : {"texts": ["탕수육은 맛있다."], "images": ["https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG"]}
-labels[3] : {"texts": ["중국식냉면은 맛있다."], "images": ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]}
-},
+    labels[0] : {"texts": ["짜장면은 맛있다."], "images": ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]},
+    labels[1] : {"texts": ["짬뽕은 맛있다."], "images": ["https://recipe1.ezmember.co.kr/cache/recipe/2023/09/28/508b7b33d78930782020c04e793a1b251.jpg"]},
+labels[2] : {"texts": ["탕수육은 맛있다."], "images": ["https://homecuisine.co.kr/files/attach/images/142/737/002/969e9f7dc60d42510c5c0353a58ba701.JPG"]},
+labels[3] : {"texts": ["중국식냉면은 맛있다."], "images": ["https://www.unileverfoodsolutions.co.kr/dam/global-ufs/mcos/south-korea/calcmenu/recipes/kr-recipes/chinese/header/%EC%A4%91%EA%B5%AD%EB%83%89%EB%A9%B4-chinese-cold-noodles-header-1260x709px.jpg"]},
+
+}
 
 # ======================
 # 유틸
